@@ -1,1 +1,2 @@
-# B-Pay
+## BlinkPay
+## A Basic Payments Application 
